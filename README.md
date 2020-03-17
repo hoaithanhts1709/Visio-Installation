@@ -8,4 +8,5 @@
 **Bước 2:** Tạo file configuration
 + Chúng ta có thể tạo bằng cách sử dụng https://config.office.com/ để tạo file config theo ý muốn nhưng mình sẽ cung cấp sẵn file config để tiện cho việc tiến hành
 + **Lưu ý:** Nên chuyển thư mục Visio vào ổ đĩa C cho tiện thao tác
-d
+![image](https://user-images.githubusercontent.com/57827985/76886754-d1695f80-68b3-11ea-965c-befcff6096c5.png)
+
