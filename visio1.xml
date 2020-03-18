@@ -1,0 +1,26 @@
+<Configuration ID="98e862cb-2736-4cdd-ad99-9476608891f8">
+  <Info Description="This is the lastest installation" />
+  <Add OfficeClientEdition="64" Channel="Broad">
+    <Product ID="VisioPro2019Retail" PIDKEY="GTPN9-73WKW-JDKCH-7D69K-YDYFK">
+      <Language ID="en-us" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="OneNote" />
+    </Product>
+    <Product ID="LanguagePack">
+      <Language ID="en-us" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="OneNote" />
+    </Product>
+  </Add>
+  <Property Name="SharedComputerLicensing" Value="0" />
+  <Property Name="PinIconsToTaskbar" Value="TRUE" />
+  <Property Name="SCLCacheOverride" Value="0" />
+  <Property Name="AUTOACTIVATE" Value="0" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="FALSE" />
+  <Property Name="DeviceBasedLicensing" Value="0" />
+  <Updates Enabled="TRUE" />
+  <RemoveMSI />
+  <AppSettings>
+    <Setup Name="Company" Value="University of Information Technology  Vietnam National University" />
+  </AppSettings>
+</Configuration>
