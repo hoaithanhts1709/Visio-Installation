@@ -22,4 +22,7 @@
 
 `setup.exe /configure visio1.xml`
 
+![image](https://user-images.githubusercontent.com/57827985/76917652-ac4a1080-68f6-11ea-9165-d5eb35440fe0.png)
+===
+# Vậy là xong, giờ chỉ cần chờ tải thôi!
 
